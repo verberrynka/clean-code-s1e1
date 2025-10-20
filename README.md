@@ -1,1 +1,1 @@
-# https://verberry12.github.io/clean-code-s1e1
+# https://verberrynka.github.io/clean-code-s1e1/
